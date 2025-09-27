@@ -3,7 +3,7 @@ for not its in development
 major feartures :
 
  - Dashboard
- - Roadmaps
+ - Roadmaps and more
  - skill evaluation
  - resume evaluation
    
